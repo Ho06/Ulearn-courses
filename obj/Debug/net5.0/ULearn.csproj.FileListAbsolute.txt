@@ -1,0 +1,1182 @@
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\appsettings.json
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ULearn.exe
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ULearn.deps.json
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ULearn.runtimeconfig.json
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ULearn.runtimeconfig.dev.json
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ULearn.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ref\ULearn.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ULearn.pdb
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ULearn.Views.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ULearn.Views.pdb
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Humanizer.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Stripe.net.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.csprojAssemblyReference.cache
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.AssemblyInfoInputs.cache
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.AssemblyInfo.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.csproj.CoreCompileInputs.cache
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorAssemblyInfo.cache
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorAssemblyInfo.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\staticwebassets\ULearn.StaticWebAssets.Manifest.cache
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\staticwebassets\ULearn.StaticWebAssets.xml
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\scopedcss\bundle\ULearn.styles.css
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.TagHelpers.input.cache
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.TagHelpers.output.cache
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorCoreGenerate.cache
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\index.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\LearnList\MyCourses.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Payment\Index.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Students\Create.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Students\Delete.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorTargetAssemblyInfo.cache
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorTargetAssemblyInfo.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.Views.pdb
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.csproj.CopyComplete
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ref\ULearn.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.pdb
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.genruntimeconfig.cache
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Instructors\Create.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Instructors\Delete.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Instructors\Details.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Instructors\Edit.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Instructors\Index.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\ULearn.StaticWebAssets.xml
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\ULearn.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\DMR\source\repos\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\appsettings.Development.json
+D:\ULearn\ULearn\bin\Debug\net5.0\ULearn.StaticWebAssets.xml
+D:\ULearn\ULearn\bin\Debug\net5.0\appsettings.json
+D:\ULearn\ULearn\bin\Debug\net5.0\ULearn.exe
+D:\ULearn\ULearn\bin\Debug\net5.0\ULearn.deps.json
+D:\ULearn\ULearn\bin\Debug\net5.0\ULearn.runtimeconfig.json
+D:\ULearn\ULearn\bin\Debug\net5.0\ULearn.runtimeconfig.dev.json
+D:\ULearn\ULearn\bin\Debug\net5.0\ULearn.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\ref\ULearn.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\ULearn.pdb
+D:\ULearn\ULearn\bin\Debug\net5.0\ULearn.Views.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\ULearn.Views.pdb
+D:\ULearn\ULearn\bin\Debug\net5.0\Humanizer.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\Stripe.net.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ULearn\ULearn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.csprojAssemblyReference.cache
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.GeneratedMSBuildEditorConfig.editorconfig
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.AssemblyInfoInputs.cache
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.AssemblyInfo.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.csproj.CoreCompileInputs.cache
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.MvcApplicationPartsAssemblyInfo.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.MvcApplicationPartsAssemblyInfo.cache
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorAssemblyInfo.cache
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorAssemblyInfo.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\staticwebassets\ULearn.StaticWebAssets.Manifest.cache
+D:\ULearn\ULearn\obj\Debug\net5.0\staticwebassets\ULearn.StaticWebAssets.xml
+D:\ULearn\ULearn\obj\Debug\net5.0\scopedcss\bundle\ULearn.styles.css
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.TagHelpers.input.cache
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.TagHelpers.output.cache
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorCoreGenerate.cache
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\index.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorTargetAssemblyInfo.cache
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorTargetAssemblyInfo.cs
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.Views.pdb
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.csproj.CopyComplete
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.dll
+D:\ULearn\ULearn\obj\Debug\net5.0\ref\ULearn.dll
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.pdb
+D:\ULearn\ULearn\obj\Debug\net5.0\ULearn.genruntimeconfig.cache
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\appsettings.json
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\libman.json
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.StaticWebAssets.xml
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.exe
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.deps.json
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.runtimeconfig.json
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.runtimeconfig.dev.json
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ref\ULearn.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.pdb
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.Views.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.Views.pdb
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Humanizer.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Stripe.net.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.AssemblyInfoInputs.cache
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.AssemblyInfo.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.csproj.CoreCompileInputs.cache
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorAssemblyInfo.cache
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorAssemblyInfo.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\staticwebassets\ULearn.StaticWebAssets.Manifest.cache
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\staticwebassets\ULearn.StaticWebAssets.xml
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\scopedcss\bundle\ULearn.styles.css
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.TagHelpers.input.cache
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.TagHelpers.output.cache
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorCoreGenerate.cache
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\index.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorTargetAssemblyInfo.cache
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorTargetAssemblyInfo.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.Views.pdb
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.csproj.CopyComplete
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ref\ULearn.dll
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.pdb
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.genruntimeconfig.cache
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.csprojAssemblyReference.cache
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Models\Properties\launchSettings.json
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Models\Properties\serviceDependencies.json
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Models\Properties\serviceDependencies.local.json
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Student\StudentSignIn.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Category\Details.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Video\Index.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Video\MyWashedList.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\MyFavorite\Index.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\power\Downloads\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\CategoryDash\Index.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.csprojAssemblyReference.cache
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.GeneratedMSBuildEditorConfig.editorconfig
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.AssemblyInfoInputs.cache
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.AssemblyInfo.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.csproj.CoreCompileInputs.cache
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.MvcApplicationPartsAssemblyInfo.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.MvcApplicationPartsAssemblyInfo.cache
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorAssemblyInfo.cache
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorAssemblyInfo.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ref\ULearn.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.pdb
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\appsettings.json
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\libman.json
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Models\Properties\launchSettings.json
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Models\Properties\serviceDependencies.json
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Models\Properties\serviceDependencies.local.json
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.StaticWebAssets.xml
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.exe
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.deps.json
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.runtimeconfig.json
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.runtimeconfig.dev.json
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ref\ULearn.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.pdb
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.Views.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.Views.pdb
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\AutoMapper.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Humanizer.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Stripe.net.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\staticwebassets\ULearn.StaticWebAssets.Manifest.cache
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\staticwebassets\ULearn.StaticWebAssets.xml
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\scopedcss\bundle\ULearn.styles.css
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.TagHelpers.input.cache
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.TagHelpers.output.cache
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorCoreGenerate.cache
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\index.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\CategoryDash\Index.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Category\Details.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Course\Create.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Course\Delete.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Course\Details.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Course\Edit.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Course\Index.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Course\Index222.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\MyFavorite\Index.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Student\StudentSignIn.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Video\Index.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Video\MyWashedList.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorTargetAssemblyInfo.cache
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorTargetAssemblyInfo.cs
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.Views.pdb
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.csproj.CopyComplete
+G:\Courses\Work\My Work Core\27-5Others\27-5\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.genruntimeconfig.cache
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\appsettings.json
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\libman.json
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Models\Properties\launchSettings.json
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Models\Properties\serviceDependencies.json
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Models\Properties\serviceDependencies.local.json
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.StaticWebAssets.xml
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.exe
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.deps.json
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.runtimeconfig.json
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.runtimeconfig.dev.json
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ref\ULearn.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.pdb
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.Views.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ULearn.Views.pdb
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\AutoMapper.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Humanizer.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\Stripe.net.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ULearnupdate\ULearn\ULearn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.GeneratedMSBuildEditorConfig.editorconfig
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.AssemblyInfoInputs.cache
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.AssemblyInfo.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.csproj.CoreCompileInputs.cache
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.MvcApplicationPartsAssemblyInfo.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.MvcApplicationPartsAssemblyInfo.cache
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorAssemblyInfo.cache
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorAssemblyInfo.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\staticwebassets\ULearn.StaticWebAssets.Manifest.cache
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\staticwebassets\ULearn.StaticWebAssets.xml
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\scopedcss\bundle\ULearn.styles.css
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.TagHelpers.input.cache
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.TagHelpers.output.cache
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorCoreGenerate.cache
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\index.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\CategoryDash\Index.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Category\Details.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Course\Create.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Course\Delete.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Course\Details.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Course\Edit.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Course\Index.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Course\Index222.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\MyFavorite\Index.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Student\StudentSignIn.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Video\Index.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Video\MyWashedList.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorTargetAssemblyInfo.cache
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.RazorTargetAssemblyInfo.cs
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.Views.pdb
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.csproj.CopyComplete
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.dll
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ref\ULearn.dll
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.pdb
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.genruntimeconfig.cache
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\ULearn.csprojAssemblyReference.cache
+D:\ULearnupdate\ULearn\ULearn\obj\Debug\net5.0\Razor\Views\Home\contact.cshtml.g.cs

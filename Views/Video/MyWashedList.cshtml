@@ -1,0 +1,46 @@
+﻿@model IEnumerable<ULearn.DataBase.Entites.CrsWhish>
+
+@{
+    ViewData["Title"] = "MyWashedList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<style>
+    iframe {
+        width: 350px;
+        height: 300px;
+    }
+</style>
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="card card-cyan">
+                    <div class="card-header">
+                        <h3 class="card-title">Watched Video</h3>
+                    </div>
+                    <!-- /.card-header -->
+                    <div class="row">
+                        @foreach (var item in Model)
+                        {
+                            <div class="col-md-4">
+                                <div class="col-sm-8 mt-1" id="@item.Id" data-vimeo-id="@item.VideoLink" data-vimeo-autoplay="false" data-vimeo-loop="false">
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+                <!-- /.card-body -->
+            </div>
+            <!-- /.card -->
+        </div>
+        <!-- /.col -->
+    </div>
+    <!-- /.row -->
+    <!-- /.container-fluid -->
+</section>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="https://player.vimeo.com/api/player.js"></script>
+
+

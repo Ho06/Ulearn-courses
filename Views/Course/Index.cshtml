@@ -1,0 +1,146 @@
+﻿@model IEnumerable<ULearn.DataBase.Entites.Course>
+
+@{
+    ViewData["Title"] = "Courses";
+}
+<!-- Template CSS -->
+<link rel="stylesheet" href="assets/css/style-liberty.css">
+<script>
+    (function () {
+        if (typeof _bsa !== 'undefined' && _bsa) {
+            // format, zoneKey, segment:value, options
+            _bsa.init('flexbar', 'CKYI627U', 'placement:w3layoutscom');
+        }
+    })();
+</script>
+<script>
+    (function () {
+        if (typeof _bsa !== 'undefined' && _bsa) {
+            // format, zoneKey, segment:value, options
+            _bsa.init('fancybar', 'CKYDL2JN', 'placement:demo');
+        }
+    })();
+</script>
+<script>
+    (function () {
+        if (typeof _bsa !== 'undefined' && _bsa) {
+            // format, zoneKey, segment:value, options
+            _bsa.init('stickybox', 'CKYI653J', 'placement:w3layoutscom');
+        }
+    })();
+</script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-149859901-1');
+</script>
+
+<script>
+    window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
+    ga('create', 'UA-149859901-1', 'demo.w3layouts.com');
+    ga('require', 'eventTracker');
+    ga('require', 'outboundLinkTracker');
+    ga('require', 'urlChangeTracker');
+    ga('send', 'pageview');
+</script>
+
+<script async src="~/js/autotrack.js"></script>
+<link href="~/assets/css/CoursesStyle.css" rel="stylesheet" />
+
+<section class="w3l-offered-courses">
+    <div class="blog py-5" id="blog">
+        @if (User.IsInRole("Admin"))
+        {
+            <a asp-action="Create" class="btn btn-primary ">Create New Course</a>
+        }
+        <div class="container pb-lg-5">
+            <div class="row">
+                @foreach (var item in Model)
+                {
+
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a asp-action="index" asp-controller="Home" class="zoom d-block" style="height:250px;">
+                                    <img style="height:100%" class="card-img-bottom d-block" src="assets/images/Courses/@item.ImagePath" alt="Card image cap">
+                                </a>
+                                <div class="author">
+                                    <div class="author-image">
+                                        <img src="assets/images/student2.jpg" class="img-fluid rounded-circle" title="Adam Ster" alt="author image">
+                                    </div>
+                                    <div class="course-title">
+                                        <a href="#url">@item.Name</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-body course-details">
+                                <div class="price-review d-flex justify-content-between mb-1align-items-center">
+                                    <p>@item.Price $</p>
+                                    <a href="#url" class="reviews d-inline-block">(56 Reviews)</a>
+                                </div>
+                                <a href="#url" class="course-desc">
+                                    @item.Descripton
+                                </a>
+                            </div>
+                            <div class="card-footer course-price-view">
+                                <ul class="blog-list">
+                                    <li>
+                                        <a href="#url"><span class="fa fa-heart"></span> 98</a>
+                                    </li>
+                                    <li>
+                                        <a href="#url"><span class="fa fa-user"></span> 15</a>
+                                    </li>
+                                </ul>
+                                <ul class="blog-list">
+                                    @if (User.IsInRole("Admin"))
+                                    {
+                                        <li>
+                                            <a style="color:white" class="btn btn-info " asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                                        </li>
+                                        <li>
+                                                <a style="color:white" class="btn btn-dark" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                                            </li>
+                                        <li>
+                                            <a style="color:white" class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                                        </li>
+                                    }
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+
+            </div>
+
+            <ul class="pagination mt-5 justify-content-center">
+
+                <li class="page-item">
+                    <a class="page-link" href="#url"> <span class="fa fa-angle-double-left"></span></a>
+                </li>
+
+                @for (var i = 1; i <= (ViewBag.CoursesCount / 9) + 1; i++)
+                {
+                    <li class="page-item">
+                        <a class="page-link active" href="#url">@i</a>
+                    </li>
+                }
+
+                <li class="page-item">
+                    <a class="page-link" href="#url"> <span class="fa fa-angle-double-right"></span></a>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+</section>
+
+<div style="margin: 8px auto; display: block; text-align:center;">
+    <!---728x90--->
+</div>
+
+
+

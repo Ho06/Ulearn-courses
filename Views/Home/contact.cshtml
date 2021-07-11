@@ -1,0 +1,85 @@
+﻿@model ULearn.ViewModels.ContactViewModel
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <!-- contact form -->
+    <section class="w3l-contacts-12" id="contact">
+        <div class="container py-5">
+            <div class="contacts12-main py-md-3">
+                <div class="header-section text-center">
+                    <h3 class="mb-md-5 mb-4">Fill out the form.</h3>
+                </div>
+                @*@if (ViewBag.Message == null)*@
+                @*{*@
+                @*<form action="https://sendmail.w3layouts.com/submitForm" method="post" class="">*@
+                <form method="post" class="">
+
+                    <div class="main-input">
+                        <input type="text" name="Name" placeholder="Enter your name" class="contact-input" required="" />
+                        <input type="email" name="Email" placeholder="Enter your mail" class="contact-input" required="" />
+                        <input type="text" name="Subject" placeholder="Subject" class="contact-input" />
+                        <textarea class="contact-textarea contact-input" name="Message" placeholder="Enter your message" required=""></textarea>
+                    </div>
+                    <div class="text-right">
+                        <button type="submit" class="btn-secondary btn theme-button">Send</button>
+                        <button type="reset" class="btn-secondary btn theme-button">Reset</button>
+
+                    </div>
+                </form>
+               
+                <div>@ViewBag.Message</div>
+                @*}*@
+            </div>
+        </div>
+        <div>
+            @*@if (ViewBag.Message != null)
+            {
+
+
+            }*@
+        </div>
+        <div class="contant11-top-bg py-5">
+            <div class="container py-lg-3">
+                <div class="d-grid contact section-gap">
+                    <div class="contact-info-left d-grid">
+                        <div class="contact-info">
+                            <div class="icon">
+                                <span class="fa fa-location-arrow" aria-hidden="true"></span>
+                            </div>
+                            <div class="contact-details">
+                                <h4>Address:</h4>
+                                <p> Kfs,Kfs, Egypt</p>
+                            </div>
+                        </div>
+                        <div class="contact-info">
+                            <div class="icon">
+                                <span class="fa fa-phone" aria-hidden="true"></span>
+                            </div>
+                            <div class="contact-details">
+                                <h4>Phone:</h4>
+                                <p><a href="tel:+02-658-456">+02-658-456</a></p>
+                                <p><a href="tel:+02-658-457">+02-658-457</a></p>
+                            </div>
+                        </div>
+                        <div class="contact-info">
+                            <div class="icon">
+                                <span class="fa fa-envelope-open-o" aria-hidden="true"></span>
+                            </div>
+                            <div class="contact-details">
+                                <h4>Mail:</h4>
+                                <p><a href="Ulearn@gmail.com" class="email">Ulearn@gmail.com</a></p>
+                                <p><a href="Ulearn@gmail.com" class="email">Ulearn@gmail.com</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3001161.424489281!2d-78.01909140705047!3d42.72866436845163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sin!4v1570786994395!5m2!1sen!2sin"
+                    frameborder="0" allowfullscreen=""></iframe>
+        </div>
+    </section>
+    <!-- //contact form -->

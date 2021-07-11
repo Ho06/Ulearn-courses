@@ -1,0 +1,73 @@
+﻿@model ULearn.DataBase.Entites.Course
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h4>Edit Course</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" method="post" enctype="multipart/form-data" >
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Duration" class="control-label"></label>
+                <input asp-for="Duration" class="form-control" />
+                <span asp-validation-for="Duration" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Descripton" class="control-label"></label>
+                <input asp-for="Descripton" class="form-control" />
+                <span asp-validation-for="Descripton" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            @*<div class="form-group">
+            <label asp-for="InsId" class="control-label"></label>
+            <select asp-for="InsId" class="form-control" asp-items="ViewBag.InsId"></select>
+            <span asp-validation-for="InsId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="LoneId" class="control-label"></label>
+            <select asp-for="LoneId" class="form-control" asp-items="ViewBag.LoneId"></select>
+            <span asp-validation-for="LoneId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="LtwoId" class="control-label"></label>
+            <select asp-for="LtwoId" class="form-control" asp-items="ViewBag.LtwoId"></select>
+            <span asp-validation-for="LtwoId" class="text-danger"></span>
+        </div>*@
+            @*<div class="form-group">
+            <label asp-for="LthreeId" class="control-label"></label>
+            <select asp-for="LthreeId" class="form-control" asp-items="ViewBag.LthreeId"></select>
+            <span asp-validation-for="LthreeId" class="text-danger"></span>
+        </div>*@
+            <div class="form-group">
+                <label>Old Course Image</label><br />
+                <img src="~/assets/images/Courses/@Model.ImagePath" style="height:150px; width:150px" />
+            </div>
+            <div class="form-group">
+                <label>New Course Image</label>
+                <input asp-for="ImageFile" name="ImageFile" class="form-control" />
+                <input type="hidden" asp-for="ImagePath" class="form-control" />
+                <span asp-validation-for="ImageFile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-dark">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

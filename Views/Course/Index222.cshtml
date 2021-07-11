@@ -1,0 +1,152 @@
+﻿@model ULearn.DataBase.Entites.Course
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+<div class="row mb-3 mt-4">
+    <div class="col-sm-6">
+        <h1 class="text-primary mt-2 mb-2">Course Details</h1>
+
+    </div>
+    <div class="col-sm-6">
+        <ol class="breadcrumb float-sm-right">
+            <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Home</a></li>
+            <li class="breadcrumb-item"><a asp-controller="Category" asp-action="Index">Category</a></li>
+            <li class="breadcrumb-item"><a asp-controller="Category" asp-action="Details" asp-route-id="@Model.Category.Id">Details</a></li>
+            <li class="breadcrumb-item active">Course Details</li>
+        </ol>
+    </div>
+</div>
+<input type="hidden" value="@Model.Id" />
+<div class="row mt-4">
+    <div class="col-sm-12 col-md-4" style=" background-color: #f8f9fa">
+        <div class=" mt-sm-30 ml-30 mr-4">
+            <div class="widget">
+                <h4 class="widget-title line-bottom text-primary">Course : <span class="text-theme-color-2"> @Model.Name</span></h4>
+            </div>
+            <hr />
+            <div class="widget">
+                <h4 class="widget-title line-bottom">Course  <span class="text-theme-color-2">Duration</span></h4>
+                <div class="opening-hours">
+                    <ul class="list-border">
+                        <li class="clearfix">
+                            <div class="value">Hours : @Model.Duration </div>
+                        </li>
+                    </ul>
+                </div>
+                <hr />
+                <div class="widget">
+                    <h4 class="widget-title line-bottom">Course  <span class="text-theme-color-2">Price</span></h4>
+                    <div class="opening-hours">
+                        <ul class="list-border">
+                            <li class="clearfix">
+
+                                <div class="value pull-left">Price : @Model.Price </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <hr />
+                    <h4 class="widget-title line-bottom">Course  <span class="text-theme-color-2">Instructor</span></h4>
+                    <div class="opening-hours">
+                        <ul class="list-border">
+                            <li class="clearfix">
+                                <div class="value pull-left">Name : @Model.Ins.Name </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <hr />
+
+                <div class="widget">
+                    <h4 class="widget-title line-bottom">Contact <span class="text-theme-color-2">Us</span></h4>
+                    <form id="quick_contact_form_sidebar" name="footer_quick_contact_form" class="quick-contact-form" method="post">
+                        <div class="form-group">
+                            <input name="form_email" class="form-control" type="text" required="" placeholder="Enter Email ">
+                        </div>
+                        <div class="form-group">
+                            <textarea name="form_message" class="form-control" required="" placeholder="Massage" rows="3"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <input name="form_botcheck" class="form-control" type="hidden" value="">
+                            <button type="submit" class="btn btn-outline-success" data-loading-text="Please wait..."> send </button>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-1"></div>
+    <div class="col-md-7 blog-pull-right">
+        <div class="single-service">
+
+            @if (Context.Session.GetString("StdEmail") == null)
+            {
+                <a asp-controller="Student" asp-action="StudentSignIn" name="subscribe" style="width:100%" class="btn btn-outline-success  pt-1 pb-1 small">
+                    Subscribe course
+                </a>
+            }
+            <h3 class="mt-5 mb-3 text-theme-colored line-bottom text-theme-colored">More Details </h3>
+            <ul id="myTab" class="nav nav-tabs boot-tabs">
+                <li class="active"><a class="btn  btn-outline-info" href="#small" data-toggle="tab" aria-expanded="true"> objectives </a></li>
+                <li><a class="mr-.5 ml-.5 btn btn-outline-info" href="#medium" data-toggle="tab" aria-expanded="false"> content </a></li>
+            </ul>
+            <div id="myTabContent" class="tab-content">
+                <div class="tab-pane fade active in" id="small">
+                    <table class="table table-bordered">
+                        <tbody>
+                            <tr>
+                                <td class="text-center font-16 font-weight-600 bg-theme-color-2 text-white" colspan="4">Objective</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p><strong>Course objectives&nbsp; </strong><strong><span>&nbsp;:</span></strong></p>
+
+                    <ul>
+                        <li> @Model.Descripton</li>
+                    </ul>
+                </div>
+                <div class="tab-pane fade" id="medium">
+                    <table class="table table-bordered">
+                        <tbody>
+                            <tr>
+                                <td class="text-center font-16 font-weight-600 bg-theme-color-2 text-white" colspan="4">
+                                    content
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p><strong class="text-danger">Course axes </strong><strong><span>&nbsp;:</span></strong></p>
+
+                    <p><strong> @Model.Lone.Name : </strong></p>
+
+                    <ul>
+                        <li>  @Model.Lone.Description</li>
+                    </ul>
+
+                    <p><strong> @Model.Ltwo.Name :</strong></p>
+
+                    <ul>
+                        <li> @Model.Ltwo.Description</li>
+
+                    </ul>
+
+                    <p><strong>@Model.Lthree.Name : </strong></p>
+
+                    <ul>
+                        <li>@Model.Lthree.Description : .</li>
+
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+

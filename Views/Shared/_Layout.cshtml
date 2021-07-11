@@ -1,0 +1,348 @@
+﻿
+<!doctype html>
+<html lang="en">
+<head>
+    
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>@ViewData["Title"] - ULearn</title>
+
+    <!-- Google fonts -->
+    <link href="//fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap" rel="stylesheet">
+
+    <!-- Template CSS -->
+    <link rel="stylesheet" href="~/assets/css/style-starter.css">
+
+    <link rel="stylesheet" href="~/lib/plugins/fontawesome-free/css/all.min.css">
+    <!-- Ionicons -->
+    <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/lib/dist/css/adminlte.min.css">
+    <!-- Google Font: Source Sans Pro -->
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+
+
+    <style>
+        .mynav{
+            font-family:Calibri;
+            font-size:25px;
+            margin-top:8px;
+            margin-left:2px;
+        }
+    </style>
+
+
+
+</head>
+<body>
+
+    <!-- header -->
+    <header class="w3l-header">
+        <div class="hero-header-11">
+            <div class="hero-header-11-content">
+                <div class="container">
+                    <nav class="navbar navbar-expand-lg navbar-light py-md-2 py-0 px-0">
+                        <a class="navbar-brand" asp-action="index" asp-controller="Home"><img src="assets/images/logo-icon.png" alt="" />Ulearn</a>
+                        <!-- if logo is image enable this
+        <a class="navbar-brand" href="#index.html">
+                <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
+        </a> -->
+                        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon fa icon-expand fa-bars"></span>
+                            <span class="navbar-toggler-icon fa icon-close fa-times"></span>
+                        </button>
+
+                        <div class="collapse navbar-collapse mt-1 mb-1" id="navbarSupportedContent">
+                            <ul class="navbar-nav ml-auto">
+                                <li class="nav-item active">
+                                    <a class="nav-link" asp-area="" asp-action="index" asp-controller="Home">Home <span class="sr-only">(current)</span></a>
+
+                                </li>
+                                <li class="nav-item @@about-active">
+                                    <a class="nav-link" asp-area="" asp-action="about" asp-controller="Home">About</a>
+
+                                </li>
+
+                                <li class="nav-item @@contact-active">
+                                    <a class="nav-link" asp-area="" asp-action="contact" asp-controller="Home">Contact</a>
+                                </li>
+                                <li class="nav-item ">
+                                    <a class="nav-link" asp-area="" asp-action="index" asp-controller="Students">Students</a>
+                                </li>
+                                <li class="nav-item ">
+                                    <a class="nav-link" asp-area="" asp-action="index" asp-controller="Instructors">Instructors</a>
+                                </li>
+                                <li class="nav-item @@courses-active">
+                                    <a class="nav-link" asp-action="index" asp-controller="Course">Courses</a>
+                                </li>
+                                <li hidden class="nav-item ">
+                                    <a class="nav-link" asp-area="" asp-action="index" asp-controller="Dashboard">Dashboard</a>
+                                </li>
+
+
+                            </ul>
+                            <partial name="_LoginPartial" />
+                        </div>
+
+                    </nav>
+                    @if (Context.Session.GetString("StdEmail") != null)
+
+                    {
+
+                        <input type="hidden" value="@Context.Session.GetInt32("WashListId")" />
+                        <ul class="nav nav-tabs mt-2 mb-2"style="align-items:center">
+                            <li class="nav-item mr-1" style=" font-size: 25px; font-family: serif; font-variant: small-caps; color: #f31227;">
+                                    <i class="fas fa-user-graduate"></i>
+                                    @Context.Session.GetString("StdEmail")
+
+                            </li>
+                            <li class="nav-item dropdown mr-1" style=" font-size: 20px;color: #f31227;">
+                                <a style="font-size: 25px; color: #007bff;" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">My Lists</a>
+                                <div class="dropdown-menu"style="padding-left: 12px; background-color: whitesmoke; color: #007bff; text-align: left;" >
+                                    <a style="  display: inline-flex ;font-weight:700" class=" text-info" asp-action="Index" asp-controller="MyFavorite" asp-route-id="@Context.Session.GetString("StdId")">My Favorite</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a style="  display: inline-flex ;font-weight:700" class=" text-info" asp-action="MyWashedList" asp-controller="Video" asp-route-washId="@Context.Session.GetInt32("WashListId")"  asp-route-id="@Context.Session.GetString("StdId")">Seen Videos</a>
+                                </div>
+                            </li>
+                            <li class="nav-item mr-3">
+                                <a class=" ml-2" asp-action="Index" asp-controller="Cart" asp-route-id="@Context.Session.GetString("StdId")"><i style="font-size:30px" class="fas fa-shopping-cart text-green"></i></a>
+                            </li>
+                            <li class="nav-item ml-4">
+                                <a style="display:inline-flex" class="" asp-action="StudentSignOut" asp-controller="Student">
+                                    <i style="font-size:30px" class="fas fa-power-off text-danger font-weight-bolder"></i>
+                                </a>
+                            </li>
+                        </ul>
+    
+                    }
+
+
+
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- footer -->
+    <footer class="w3l-footer-29-main" id="footer">
+        <div class="footer-29 py-5">
+            <div class="container pb-lg-3">
+                <div class="row footer-top-29">
+                    <div class="col-lg-4 col-md-6 footer-list-29 footer-1 mt-md-4">
+                        <a class="footer-logo mb-md-3 mb-2" href="#url"><img src="assets/images/logo-icon.png" alt="" />Ulearn</a>
+                        <p>
+                            We amplify important ideas in mathematics education to help teachers grow their practice and our profession. Lorem ipsum dolor sit
+                            amet consectetur adipisicing elit.
+                        </p>
+                    </div>
+                    <div class="col-lg-2 col-md-6 footer-list-29 footer-2 mt-5">
+                        <h6 class="footer-title-29">Explore More</h6>
+                        <ul>
+                            <li><a href="#gallery.html">Gallery</a></li>
+                            <li><a href="#courses.html">Courses</a></li>
+                            <li><a href="#landing-single.html">Landing Page</a></li>
+                            <li><a href="#signup.html">Apply Now</a></li>
+                            <li><a href="contact.html">Buy Course Online</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4 col-md-6 footer-list-29 footer-3 mt-5">
+                        <div class="properties">
+                            <h6 class="footer-title-29">Recent Post</h6>
+                            <a class="d-grid twitter-feed" href="#blog-single.html">
+                                <img src="assets/images/g1.jpg" class="img-fluid rounded" alt="">
+                                <p>How to get Programming language Cartification in 45 days.</p>
+                            </a>
+                            <a class="d-grid twitter-feed" href="#blog-single.html">
+                                <img src="assets/images/g2.jpg" class="img-fluid rounded" alt="">
+                                <p>Top class learning from anywhere Lorem ipsum dolor sit amet.</p>
+                            </a>
+                            <a class="d-grid twitter-feed" href="#blog-single.html">
+                                <img src="assets/images/g3.jpg" class="img-fluid rounded" alt="">
+                                <p>Improving lives through learning Lorem ipsum dolor sit amet.</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6 footer-list-29 footer-4 mt-5">
+                        <h6 class="footer-title-29">Quick Links</h6>
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About</a></li>
+                            <li><a href="services.html">Services</a></li>
+                            <li><a href="#blog.html"> Blog</a></li>
+                            <li><a href="contact.html">Contact</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="footers14-block" class="py-3">
+            <div class="container">
+                <div class="footers14-bottom text-center">
+                    <div class="social">
+                        <a href="#facebook" class="facebook"><span class="fa fa-facebook" aria-hidden="true"></span></a>
+                        <a href="#google" class="google"><span class="fa fa-google-plus" aria-hidden="true"></span></a>
+                        <a href="#twitter" class="twitter"><span class="fa fa-twitter" aria-hidden="true"></span></a>
+                        <a href="#instagram" class="instagram"><span class="fa fa-instagram" aria-hidden="true"></span></a>
+                        <a href="#youtube" class="youtube"><span class="fa fa-youtube" aria-hidden="true"></span></a>
+                    </div>
+                    <div class="copyright mt-1">
+                        <p>&copy; 2020 Skill. All Rights Reserved | Design by <a href="https://w3layouts.com/">W3Layouts</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- move top -->
+        <button onclick="topFunction()" id="movetop" title="Go to top">
+            <span class="fa fa-angle-up" aria-hidden="true"></span>
+        </button>
+        <script>
+            // When the user scrolls down 20px from the top of the document, show the button
+            window.onscroll = function () {
+                scrollFunction()
+            };
+
+            function scrollFunction() {
+                if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                    document.getElementById("movetop").style.display = "block";
+                } else {
+                    document.getElementById("movetop").style.display = "none";
+                }
+            }
+
+            // When the user clicks on the button, scroll to the top of the document
+            function topFunction() {
+                document.body.scrollTop = 0;
+                document.documentElement.scrollTop = 0;
+            }
+        </script>
+        <!-- /move top -->
+
+    </footer>
+
+
+    <!-- jQuery and Bootstrap JS -->
+    <script src="~/assets/js/jquery-3.3.1.min.js"></script>
+    <script src="~/assets/js/bootstrap.min.js"></script>
+    @*<script src="~/lib/plugins/jquery/jquery.min.js"></script>*@
+    <!-- Bootstrap 4 -->
+    <script src="~/lib/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/plugins/sweetalert2/sweetalert2.min.js"></script>
+
+    <script src="~/lib/plugins/toastr/toastr.min.js"></script>
+    <!-- Template JavaScript -->
+    <!-- stats number counter-->
+    <script src="~/assets/js/jquery.waypoints.min.js"></script>
+    <script src="~/assets/js/jquery.countup.js"></script>
+    <script>
+        $('.counter').countUp();
+    </script>
+    <!-- //stats number counter -->
+    <!-- testimonials owlcarousel -->
+    <script src="~/assets/js/owl.carousel.js"></script>
+    <script src="~/lib/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <script src="~/lib/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="~/lib/dist/js/adminlte.min.js"></script>
+    <!-- AdminLTE for demo purposes -->
+    <script src="~/lib/dist/js/demo.js"></script>
+    <!-- Ion Slider -->
+    <script src="~/lib/plugins/ion-rangeslider/js/ion.rangeSlider.min.js"></script>
+    <!-- Bootstrap slider -->
+    <script src="~/lib/plugins/bootstrap-slider/bootstrap-slider.min.js"></script>
+
+    <!-- script for owlcarousel -->
+    <script>
+        $(document).ready(function () {
+            $('.owl-one').owlCarousel({
+                loop: true,
+                margin: 0,
+                nav: false,
+                responsiveClass: true,
+                autoplay: false,
+                autoplayTimeout: 5000,
+                autoplaySpeed: 1000,
+                autoplayHoverPause: false,
+                responsive: {
+                    0: {
+                        items: 1,
+                        nav: false
+                    },
+                    480: {
+                        items: 1,
+                        nav: false
+                    },
+                    667: {
+                        items: 1,
+                        nav: false
+                    },
+                    1000: {
+                        items: 1,
+                        nav: false
+                    }
+                }
+            })
+        })
+    </script>
+    <!-- //script for owlcarousel -->
+    <!-- //testimonials owlcarousel -->
+    <!-- script for courses -->
+    <script>
+        $(document).ready(function () {
+            $('.owl-two').owlCarousel({
+                loop: true,
+                margin: 30,
+                nav: false,
+                responsiveClass: true,
+                autoplay: false,
+                autoplayTimeout: 5000,
+                autoplaySpeed: 1000,
+                autoplayHoverPause: false,
+                responsive: {
+                    0: {
+                        items: 1,
+                        nav: false
+                    },
+                    480: {
+                        items: 1,
+                        nav: false
+                    },
+                    667: {
+                        items: 2,
+                        nav: false
+                    },
+                    1000: {
+                        items: 3,
+                        nav: false
+                    }
+                }
+            })
+        })
+    </script>
+    <!-- //script for courses -->
+    <!-- disable body scroll which navbar is in active -->
+    <script>
+        $(function () {
+            $('.navbar-toggler').click(function () {
+                $('body').toggleClass('noscroll');
+            })
+        });
+    </script>
+    <!-- disable body scroll which navbar is in active -->
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

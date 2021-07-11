@@ -1,0 +1,139 @@
+﻿@model IEnumerable<ULearn.DAL.DataBase.Entites.Video>
+@inject ULearn.BL.Interface.IWashListRep washlist
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@*<script src="https://www.youtube.com/iframe_api"></script>*@
+<script src="https://player.vimeo.com/api/player.js"></script>
+
+
+<style>
+    iframe {
+    }
+
+    hr {
+        border-top: 3px solid;
+    }
+</style>
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="card card-cyan">
+                    <div class="card-header">
+                        <h3 class="card-title">VideosList</h3>
+                    </div>
+                    <!-- /.card-header -->
+
+                    <div class="sidebar overlay-menuv " style="overflow-y:auto; overflow-x:hidden;scroll-behavior:smooth;">
+                        @foreach (var item in Model)
+                        {
+
+                            <div class="card-body text-center row">
+                                <div class="col-sm-8 mt-1" id="@item.Id" data-vimeo-id="@item.VidLink" data-vimeo-autoplay="false" data-vimeo-loop="false">
+                                </div>
+                                <div class="jumbotron col-sm-4">
+                                    <h1 class="display-4">  @item.Course.Name</h1>
+                                    <hr class="my-4">
+                                    <input type="hidden" value="@item.Id" />
+
+                                    @if (washlist.GetWashedByWashId(Context.Session.GetInt32("WashListId"), item.Id) == 1)
+                                    {
+                                        <div style="float:left" class="lead mt-2 alertDiv">
+                                            <div class="@item.Id alert" role="alert">
+                                                <i class="fas fa-eye-slash"></i>
+                                                <p class="text-danger">Not seen</p>
+                                            </div>
+                                        </div>
+                                    }
+                                    else
+                                    {
+                                        <div style="float:left" class="lead mt-2 alertDiv">
+                                            <div class="@item.Id alert" role="alert">
+                                                <i class="fas far fa-eye"></i>
+                                                <p class="text-success">seen</p>
+                                            </div>
+                                        </div>
+                                    }
+
+                                </div>
+                                <script>
+                                    var videoPlayer = new Vimeo.Player('@item.Id');
+                                    videoPlayer.on('play', function () {
+                                        //alert('Played the video');
+                                        @*$('.alertDiv .@item.Id').removeClass('alert-warning');*@
+                                        $('.alertDiv .@item.Id p').text("seen")
+                                        $('.alertDiv .@item.Id p').removeClass("text-danger")
+                                        $('.alertDiv .@item.Id p').addClass("text-success")
+                                        $('.alertDiv .@item.Id i').removeClass('fa-eye-slash');
+                                        $('.alertDiv .@item.Id i').addClass('far fa-eye');
+
+                                        var crsid = @item.Id;
+                                        var VidLink = @item.VidLink;
+                                        var wishid = @Context.Session.GetInt32("WashListId");
+                                            $.ajax({
+                                                url: '/Video/AddtoWatchList',
+                                                type: 'POST',
+                                                data: {
+                                                    'crsid': crsid,
+                                                    'wishid': wishid,
+                                                    'videolink': VidLink
+                                                },
+                                                dataType: 'json',
+                                                success: function (data) {
+                                                //alert("send to data base")
+                                                },
+                                                error: function (request, error) {
+                                                //    alert("Request: " + JSON.stringify(request));
+                                                }
+                                            });
+
+
+
+
+                                    });
+                                </script>
+                            </div>
+                            <hr style="height:10px" />
+                        }
+                    </div>
+                </div>
+                <!-- /.card-body -->
+            </div>
+            <!-- /.card -->
+        </div>
+        <!-- /.col -->
+    </div>
+    <!-- /.row -->
+    <!-- /.container-fluid -->
+</section>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="https://player.vimeo.com/api/player.js"></script>
+<script src="{url}"></script>
+@*<script>
+
+
+        var ii = document.querySelector("itmvideo");
+        var iframe = $(ii).find('.frm');
+        alert(JSON.stringify(iframe));
+        //var iframe = document.querySelector('iframe');
+        var player = new Vimeo.Player(ii);
+        player.on('play', function () {
+            alert("Played the video")
+        });
+
+        player.getVideoTitle().then(function (title) {
+            console.log('title:', title);
+        });
+    </script>*@
+<script>
+    var videoPlayer = new Vimeo.Player('myVideo');
+    videoPlayer.on('play', function () {
+    //    console.log('Played the video');
+    });
+</script>
+

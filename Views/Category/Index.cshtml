@@ -1,0 +1,63 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1>Categories</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a asp-action="Index">Home</a></li>
+                    <li class="breadcrumb-item active">Category</li>
+                </ol>
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</section>
+
+<!-- Main content -->
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="card card-primary">
+                    <div class="card-header">
+                        <h3 class="card-title">categories</h3>
+                    </div>
+                    <!-- /.card-header -->
+                    <div class="card-body">
+                        <div class="row mt-3">
+                            @foreach (var item in ViewBag.category)
+                            {
+                                <div class="col-sm-4 mt-4">
+                                    <div class="position-relative p-3 bg-gray" style="height: 180px">
+                                        <div class="ribbon-wrapper ribbon-lg">
+                                            <div class="ribbon bg-success text-lg">
+                                                @item.Name
+                                            </div>
+                                        </div>
+                                        Ribbon Large <br>  @item.Title <br>
+                                        <small> @item.SubTitle</small>
+                                    </div>
+                                    <a asp-controller="Category" asp-action="Details" asp-route-id="@item.Id" class="btn btn-block btn-outline-primary btn-sm">
+                                        Details
+                                    </a>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+            </div>
+            <!-- /.col -->
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container-fluid -->
+</section>

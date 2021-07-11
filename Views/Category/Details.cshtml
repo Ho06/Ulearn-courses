@@ -1,0 +1,136 @@
+﻿@model ULearn.DataBase.Entites.Category
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" href="~/lib/plugins/sweetalert2-theme-bootstrap-4/bootstrap-4.min.css">
+<!-- Toastr -->
+<link rel="stylesheet" href="~/lib/plugins/toastr/toastr.min.css">
+<!-- Theme style -->
+<link rel="stylesheet" href="~/lib/dist/css/adminlte.min.css">
+<div class="row mb-3">
+    <div class="col-sm-6">
+        <h1 class="text-primary mt-2 mb-2">Category Details</h1>
+
+    </div>
+    <div class="col-sm-6">
+        <ol class="breadcrumb float-sm-right">
+            <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Home</a></li>
+            <li class="breadcrumb-item"><a asp-controller="Category" asp-action="Index">Category</a></li>
+            <li class="breadcrumb-item active">Details</li>
+        </ol>
+    </div>
+</div>
+
+
+
+<input type="hidden" value="@Model.Id" />
+
+<div class="row">
+    <div class="col-md-4 col-sm-12">
+        <div class=" mt-sm-30 ml-30 mr-4">
+            <div class="widget">
+                <h4 class="widget-title line-bottom text-danger">Course  : <span class="text-theme-color-2"> @Model.Name</span></h4>
+            </div>
+            <div class="widget">
+                <h4 class="widget-title line-bottom">Course  <span class="text-theme-color-2">@Model.Title</span></h4>
+
+                @*<h4 class="widget-title line-bottom">Course  <span class="text-theme-color-2">@Model.SubTitle</span></h4>*@
+                <div class="opening-hours">
+                    <ul class="list-border">
+                        <li class="clearfix">
+                            <span> Discreption :  </span>
+                            <p>@Model.Description</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="col-md-8 col-sm-12">
+        @foreach (var item in Model.Courses)
+        {
+
+            <div class="card w-75 row mr-auto text-center">
+                <div class="row">
+                    <div style="background-color: #f8f9fa;color:black" class="col-md-7">
+                        <div class="card-body">
+                            <h5 class="card-title text-info">@item.Name</h5><br />
+                            <span class="accent-blue">Discreption  :-</span>
+                            <p class="card-text">@item.Descripton</p>
+                            <a asp-action="Index" asp-controller="Course" asp-route-id="@item.Id" class="info text-dannger"><i class="fas fa-link mr-1"></i> More Details</a>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        @if (Context.Session.GetString("StdEmail") != null)
+                        {
+                            <div>
+                                <input type="hidden" id="stdId" value="@Context.Session.GetString("StdId")" />
+                                <input type="hidden" id="courseId" value="@item.Id" />
+                                <a class="AddToList btn btn-outline-warning small mr-1 ml-1 mt-4 mb-2 px-3">Add To List</a>
+
+                            </div>
+                            <div>
+                                <a asp-action="Index" asp-controller="Video" asp-route-stdId="@Context.Session.GetString("StdId")" asp-route-crsId="@item.Id" class="btn btn-outline-warning small mr-1 ml-1 mt-2 "> Matrials</a>
+
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="text-info">
+                                <p style="font:bolder" class="mt-4 text-info">
+                                    This Topic For Students
+                                    <a class="btn btn-outline-success mt-2" asp-action="StudentSignIn" asp-controller="Student">
+                                        <i style="font:bolder" class="fas fa-sign-in-alt"> </i> Login
+                                    </a>
+                                </p>
+
+                            </div>
+                        }
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-1"></div>
+        }
+
+    </div>
+</div>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script>
+    $(function () {
+
+        const Toast = Swal.mixin({
+            toast: true,
+            position: 'top-end',
+            showConfirmButton: false,
+            timer: 6000
+        });
+
+        $(".AddToList").on("click", function () {
+            var id = $(this).parent().find("#stdId").val();
+            var courseId = $(this).parent().find("#courseId").val();
+            $.ajax({
+                url: '/MyFavorite/Addfavorite',
+                type: 'POST',
+                data: {
+                    'stdId': id,
+                    'courseId': courseId
+                },
+                success: function (data) {
+                    Toast.fire({
+                        icon: 'success',
+                        title: '  Done --- The Course has been Add successfully'
+                    })
+                }
+            });
+        });
+
+
+    });
+</script>
+
+
+

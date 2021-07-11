@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Repository\**" />
+    <Content Remove="Repository\**" />
+    <EmbeddedResource Remove="Repository\**" />
+    <None Remove="Repository\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\css\style-starter.css" />
+    <None Include="wwwroot\assets\fonts\fontawesome-webfont.eot" />
+    <None Include="wwwroot\assets\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\assets\fonts\fontawesome-webfont.ttf" />
+    <None Include="wwwroot\assets\fonts\fontawesome-webfont.woff" />
+    <None Include="wwwroot\assets\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\assets\fonts\FontAwesome.otf" />
+    <None Include="wwwroot\assets\images\banner.png" />
+    <None Include="wwwroot\assets\images\course.png" />
+    <None Include="wwwroot\assets\images\g1.jpg" />
+    <None Include="wwwroot\assets\images\g2.jpg" />
+    <None Include="wwwroot\assets\images\g3.jpg" />
+    <None Include="wwwroot\assets\images\g4.jpg" />
+    <None Include="wwwroot\assets\images\g5.jpg" />
+    <None Include="wwwroot\assets\images\g6.jpg" />
+    <None Include="wwwroot\assets\images\g8.jpg" />
+    <None Include="wwwroot\assets\images\library.png" />
+    <None Include="wwwroot\assets\images\logo-icon.png" />
+    <None Include="wwwroot\assets\images\p1.jpg" />
+    <None Include="wwwroot\assets\images\p2.jpg" />
+    <None Include="wwwroot\assets\images\p3.jpg" />
+    <None Include="wwwroot\assets\images\p4.jpg" />
+    <None Include="wwwroot\assets\images\seminors.png" />
+    <None Include="wwwroot\assets\images\stat.jpg" />
+    <None Include="wwwroot\assets\images\student1.jpg" />
+    <None Include="wwwroot\assets\images\student2.jpg" />
+    <None Include="wwwroot\assets\images\student3.jpg" />
+    <None Include="wwwroot\assets\images\student4.jpg" />
+    <None Include="wwwroot\assets\images\teacher.png" />
+    <None Include="wwwroot\assets\js\bootstrap.min.js" />
+    <None Include="wwwroot\assets\js\jquery-3.3.1.min.js" />
+    <None Include="wwwroot\assets\js\jquery.countup.js" />
+    <None Include="wwwroot\assets\js\jquery.waypoints.min.js" />
+    <None Include="wwwroot\assets\js\owl.carousel.js" />
+    <None Include="index.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Facebook" Version="5.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="5.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="5.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
+    <PackageReference Include="Stripe.net" Version="39.48.0" />
+  </ItemGroup>
+
+</Project>
